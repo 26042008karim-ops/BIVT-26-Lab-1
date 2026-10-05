@@ -6,7 +6,7 @@ namespace Lab1
         {
             bool answer = (a > 0 && b > 0 && c > 0) || (a < 0 && b < 0 && c < 0);
 
-            // code here
+            // code here 
 
             // end
 
